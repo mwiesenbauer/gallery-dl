@@ -120,6 +120,7 @@ modules = [
     "pillowfort",
     "pinterest",
     "pixeldrain",
+    "pixhost",
     "pixiv",
     "pixnet",
     "plurk",
