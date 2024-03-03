@@ -113,6 +113,7 @@ modules = [
     "nsfwalbum",
     "paheal",
     "patreon",
+    "piwigo",
     "philomena",
     "photovogue",
     "picarto",
