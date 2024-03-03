@@ -118,6 +118,7 @@ modules = [
     "picarto",
     "piczel",
     "pillowfort",
+    "pimpandhost",
     "pinterest",
     "pixeldrain",
     "pixhost",
